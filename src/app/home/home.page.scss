@@ -2,3 +2,56 @@
   max-height: 35vh;
   overflow: hidden;
 }
+
+ion-content {
+  --background: url(../../assets/water-bg.png) no-repeat -24em 5em;
+
+  .deliver-btn {
+    color: #fff;
+    width: 50%;
+    padding: 1em;
+    background: #43a6cf;
+  }
+  .ion-activatable {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .drop{
+    padding: 1em;
+  }
+  .cane-img {
+    width: 75%;
+  }
+
+  ion-icon {
+    color: #43a6cf;
+    padding: 2em;
+    
+  }
+
+  .span-text{
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 42%;
+    color: #fff !important;
+  }
+
+  .plus {
+    margin-left: -3em;
+  }
+
+  .minus {
+    margin-right: -3em;
+  }
+
+  .span-text {
+    color: #43a6cf;
+    
+  }
+}
+
+ion-card {
+  box-shadow: none;
+}
+
