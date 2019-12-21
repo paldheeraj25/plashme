@@ -49,9 +49,18 @@ ion-content {
     color: #43a6cf;
     
   }
+
 }
 
 ion-card {
   box-shadow: none;
 }
 
+.geo-img {
+  max-width: 16%;
+}
+
+.address-txt {
+  color: #43a6cf;
+  font-size: 14px;
+}

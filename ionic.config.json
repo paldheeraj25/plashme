@@ -1,5 +1,7 @@
 {
   "name": "plashme",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
